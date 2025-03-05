@@ -38,6 +38,7 @@ A estrutura de diretórios é organizada da seguinte forma:
 │   │   │   └── wesley.png
 │   │   └── js/
 │   │       └── script.js     # Arquivo JavaScript com interatividade
+----------------------------------------------------------------------------------------------------------------
 
 ## Como Rodar o Projeto
 
