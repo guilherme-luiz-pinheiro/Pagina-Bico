@@ -53,7 +53,7 @@ Abra o arquivo index.html em seu navegador:
 
 
 open index.html  # Para MacOS
-# ou
+----------------------------------------------------------------------------------------------------------------
 start index.html # Para Windows
 Se você estiver utilizando o Jekyll para geração do site, basta executar o comando abaixo para iniciar o servidor local:
 
