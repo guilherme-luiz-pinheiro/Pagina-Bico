@@ -25,20 +25,22 @@ Com uma interface intuitiva e integração com APIs robustas, o **BICO** oferece
 
 A estrutura de diretórios é organizada da seguinte forma:
 
-├── docs/
-│   ├── index.html            # Página principal do seu site
-│   ├── assets/               # Arquivos estáticos como imagens, CSS, JS
-│   │   ├── css/
-│   │   │   └── style.css     # Arquivo CSS do layout
-│   │   ├── img/
-│   │   │   ├── bico_app_imagev2.png
-│   │   │   ├── day.jpg
-│   │   │   ├── duarte.png
-│   │   │   ├── gui.png
-│   │   │   └── wesley.png
-│   │   └── js/
-│   │       └── script.js     # Arquivo JavaScript com interatividade
-----------------------------------------------------------------------------------------------------------------
+docs/
+├── index.html            # Página principal do seu site
+├── Bico.html             # Outros arquivos HTML
+├── _config.yml           # Arquivo de configuração do Jekyll (se usar Jekyll)
+├── assets/               # Arquivos estáticos como imagens, CSS, JS
+│   ├── css/
+│   │   └── style.css     # Arquivo CSS do layout
+│   ├── img/
+│   │   ├── bico_app_imagev2.png
+│   │   ├── day.jpg
+│   │   ├── duarte.png
+│   │   ├── gui.png
+│   │   └── wesley.png
+│   └── js/
+│       └── script.js     # Arquivo JavaScript com interatividade
+
 
 ## Como Rodar o Projeto
 
